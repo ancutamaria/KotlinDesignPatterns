@@ -1,0 +1,4 @@
+debug.log
+.KotlinDesignPatterns/idea/*
+.KotlinDesignPatterns/gradle/*
+.KotlinDesignPatterns/build/*
